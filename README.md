@@ -1,4 +1,4 @@
-pottos
+potto
 ====================================
 Miles, mileage, point of the recommendation service.
 

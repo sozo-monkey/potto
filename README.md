@@ -3,6 +3,7 @@ potto
 Miles, mileage, point of the recommendation service.
 
 Code name: potto
+
 ![golden_potto](https://cloud.githubusercontent.com/assets/2557813/13902225/d2ebfd58-ee83-11e5-8cc4-07b27b6576d1.jpg)
 
 

@@ -21,6 +21,11 @@ apply plugin: 'spring-boot'
 apply plugin: 'com.moowork.node'
 apply plugin: 'com.moowork.gulp'
 
+node {
+  version = '0.10.29'
+  download = true
+}
+
 jar {
 	baseName = 'potto'
 	version = '0.0.1-SNAPSHOT'

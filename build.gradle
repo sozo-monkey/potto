@@ -57,3 +57,5 @@ task wrapper(type: Wrapper) {
 bootRun {
 	addResources = true
 }
+
+defaultTasks "clean", "build"

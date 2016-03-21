@@ -1,1 +1,0 @@
-web: ./server/gradlew bootRun

@@ -1,0 +1,18 @@
+{
+  "name": "potto",
+  "scripts": {
+  },
+  "env": {
+    "BUILDPACK_URL": "https://github.com/marcoVermeulen/heroku-buildpack-gradlew.git",
+    "JAVA_OPTS": "-Xmx384m -Xss512k -XX:+UseCompressedOops",
+    "PORT": "5000"
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/marcoVermeulen/heroku-buildpack-gradlew.git"
+    }
+  ]
+}

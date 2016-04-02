@@ -11,6 +11,9 @@
     },
     "PORT": {
       "required": true
+    },
+    "DEPLOYHOOKS_HTTP_URL": {
+      "required": true
     }
   },
   "addons": [
